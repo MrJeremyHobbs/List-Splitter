@@ -1,5 +1,8 @@
 
 ![Axe Icon](https://github.com/MrJeremyHobbs/List-Splitter/blob/main/ico/icon.png?sanitize=true)
+# List Splitter for Alma
+Takes a large analytics report and splits into 10 megabyte segments for import into Alma sets.
+
 # Getting Started
 Download the script and place it on your harddrive.
 
@@ -48,7 +51,6 @@ SET_5
 
 Once you start combining the sets, label them like this:
 
-
 SET_1 + SET_2
 SET_3 + SET_4
 SET_5 (remains unchanged)
@@ -56,7 +58,8 @@ SET_5 (remains unchanged)
 Then:
 
 SET_1 + SET_2 + SET_3 + SET_4
-SET_5
+SET_5 (remains unchanged)
 
 Finally:
+
 SET_1 + SET_2 + SET_3 + SET_4 + SET_5
