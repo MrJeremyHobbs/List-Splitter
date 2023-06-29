@@ -1,5 +1,5 @@
 
-![Axe Icon](https://github.com/MrJeremyHobbs/List-Splitter/blob/main/ico/icon.svg?sanitize=true)
+![Axe Icon](https://github.com/MrJeremyHobbs/List-Splitter/blob/main/ico/icon.png?sanitize=true)
 # Getting Started
 Download the script and place it on your harddrive.
 
